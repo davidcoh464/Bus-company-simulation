@@ -1,4 +1,2 @@
-# I'm writing somting
-# dotNet5781_5173_9142
-# Hello 
-#Ex0 Final commit
+prproject in C# and WPF windows framework to manage a bus company . with three layer method .
+iIn the config.xml file located in solution items you can choose whether to work with an xml database to save the data or in data where the data will change for each runoject in tree layers mathed 
