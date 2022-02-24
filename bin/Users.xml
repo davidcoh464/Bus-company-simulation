@@ -20,4 +20,9 @@
     <Password>cohen</Password>
     <Management>true</Management>
   </User>
+  <User>
+    <UserName>david cohen</UserName>
+    <Password>123</Password>
+    <Management>true</Management>
+  </User>
 </Users>
